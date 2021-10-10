@@ -1,0 +1,32 @@
+html,
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #001b3d
+}
+
+.demo {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  margin: 150px auto 30px auto;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  color: rgb(212, 105, 4)
+}
+
+h2,
+h3 {
+  margin: 50px auto 30px auto;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  color: rgb(212, 105, 4)
+}
